@@ -1,0 +1,27 @@
+_repo: Dante--Six-Sermons_36479
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wicksteed, Philip H. (Philip Henry)
+    alias: Wicksteed, Philip Henry
+    birthdate: 1844
+    deathdate: 1927
+    gutenberg_agent_id: '35972'
+    url: http://www.gutenberg.org/2009/agents/35972
+description: ''
+gutenberg_issued: '2011-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dante Alighieri, 1265-1321'
+- !lcc 'PQ'
+title: 'Dante: Six Sermons'
+url: http://www.gutenberg.org/ebooks/36479
